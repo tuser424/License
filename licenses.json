@@ -3,7 +3,7 @@
         "key": "ABC123-XYZ456-7890ABC",
         "status": "VALID",
         "expiry_date": "2025-12-31",
-        "activated_device_uuid": ""
+        "activated_device_uuid": "17F217A0-D760-53CC-A3DC-E64C3ACDC374"
     },
     {
         "key": "DEF789-XYZ456-1230ABC",
