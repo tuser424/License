@@ -1,20 +1,14 @@
 [
     {
-        "key": "351ff81f-a7ae-4672-9cbb-a08aa8dcd04c",
+        "key": "1234-5678-ABCD-EFGH",
         "status": "VALID",
         "expiry_date": "2025-12-31",
-        "activated_device_uuid": "17F217A0-D760-53CC-A3DC-E64C3ACDC374"
+        "activated_device_uuid": null
     },
     {
-        "key": "b248685b-1f70-4952-b5e3-3c1e504edbc5",
+        "key": "2345-6789-BCDE-FGHI",
         "status": "VALID",
-        "expiry_date": "2025-12-31",
-        "activated_device_uuid": ""
-    },
-    {
-        "key": "f8006548-2097-4dd1-b259-fc278453bdea",
-        "status": "VALID",
-        "expiry_date": "2025-12-31",
-        "activated_device_uuid": ""
+        "expiry_date": "2024-06-30",
+        "activated_device_uuid": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
     }
 ]
